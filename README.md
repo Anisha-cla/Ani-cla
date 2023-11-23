@@ -1,26 +1,12 @@
 
-password="Password@123456"
-passKey="passwordtest@456"
-```
-- text: |
-    +    public function __construct()
-    +    {
-    +        $this->creds = new ArrayConfiguration([
-    +            'jiraHost' => 'https://triggergg.atlassian.net',
-    +            'jiraUser' => 'dbarrette@triggergg.com',
-    +            'jiraPassword' => '3ZIKMIeNl1GbIFIa0x6ID2EC1MIJOIeKl1VbFCAb7t1IF4EC',
-    +        ]);
-    +    }
+    client id =  ABIAK52LPFORPRUCRC22
+    CLIENT SECRET = hjshnn5ef2a30565c4654HMSAoaz443d42swljak
+  client_id: ABIAK52LPFORPRUCRC22
+  client_secret: hjshnn5ef2a30565c4654HMSAoaz443d42swljak
 
-  client_id: dbarrette@triggergg.com
-  client_secret: 3ZIKMIeNl1GbIFIa0x6ID2EC1MIJOIeKl1VbFCAb7t1IF4EC
-  host: https://triggergg.atlassian.net
+    client id =  AKIAX52MPYOTPRUCRC22
+    +S0ugN5wv2mBHr+e7DN7dTqg4Aa6b4l5I0gDRfq9S
+  client_id: AKIAX52MPYOTPRUCRC22
+  client_secret: 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
 
-- text: |
-    JIRA_USERNAME="staging-admin@hellothere.com"
-    JIRA_PASSWORD="stazpngadrgn032"
-    JIRA_ENDPOINT="https://support-staging.hellothere.com/jira"
-  client_id: staging-admin@hellothere.com
-  client_secret: stazpngadrgn032
-  host: https://support-staging.hellothere.com
-```
+

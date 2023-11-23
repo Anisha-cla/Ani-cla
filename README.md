@@ -1,4 +1,4 @@
-- text: |
+
     apiVersion: v1
     clusters:
     - cluster:
